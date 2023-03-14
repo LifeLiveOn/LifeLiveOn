@@ -1,3 +1,1 @@
-Hi, I'm an international student in USA whose is finding his path in life through coding. I love to check for techs new and do some research to understand about them.
-I'm looking forward to be a software engineer in the future, where i would make plans for projects and work with teams to success in it. My personal usage with coding is combining
-Technology with business to help with my family growth.
+As an international student in the USA, I have discovered a passion for coding and technology. I enjoy keeping up with the latest tech trends and conducting research to deepen my understanding of new technologies. My ultimate goal is to become a software engineer and work with teams to plan and execute successful projects. In my personal life, I am also interested in combining technology with business to help my family grow.
